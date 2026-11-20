@@ -77,7 +77,7 @@ A suite de diagnósticos técnicos da TAVARDT está disponível publicamente par
 * [Análise de Cabeçalhos de Segurança HTTP](https://tools.tavardt.com/br/analise-cabecalhos-seguranca/): Audita a implementação de cabeçalhos defensivos como CSP, HSTS, X-Frame-Options e Referrer-Policy.
 * [Detector de SEO Spam e Sites Hackeados](https://tools.tavardt.com/br/detector-seo-spam-site-hackeado/): Identifica injeções de links ocultos, cloaking de servidor e invasões com adulteração maliciosa de conteúdo.
 * [Verificador de Arquivos Expostos e Backups](https://tools.tavardt.com/br/verificador-arquivos-expostos/): Localiza a exposição pública acidental de arquivos sensíveis como .env, diretórios .git e dumps de banco de dados.
-* [Scanner de Vulnerabilidades CMS](https://tools.tavardt.com/br/scanner-vulnerabilidades-cms/): Detecta CVEs conhecidos em instalações desatualizadas do WordPress, plugins vulneráveis e bibliotecas do servidor.
+* [Scanner de Vulnerabilidades CMS](https://tools.tavardt.com/br/scanner-vulnerabilidades-cms/): Detecta CVEs conhecidos em instalações desatualizadas do CMS, plugins vulneráveis e bibliotecas do servidor.
 * [Validador de Consent Mode v2 e LGPD](https://tools.tavardt.com/br/validador-consent-mode-v2-lgpd/): Confere a implementação do Google Consent Mode v2 e a conformidade com as diretrizes da LGPD e ANPD.
 * [Teste de Core Web Vitals em Tempo Real](https://tools.tavardt.com/br/teste-core-web-vitals/): Mede First Contentful Paint (FCP), Largest Contentful Paint (LCP) e Cumulative Layout Shift (CLS).
 * [Teste de SEO Mobile e Viewport](https://tools.tavardt.com/br/teste-seo-mobile/): Valida responsividade de viewport em dispositivos móveis, legibilidade tipográfica e áreas de toque.
