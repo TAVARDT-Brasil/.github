@@ -71,7 +71,7 @@ Este repositório atua como o hub central de distribuição técnica e documenta
 ### Super Inteligência Conversacional e Automação
 * [Automação de WhatsApp Business](https://ag.tavardt.com/br/super-intelligence/whatsapp/): Disparo transacional via API oficial, qualificação autônoma de oportunidades comerciais e sincronização bidirecional com CRM.
 * [Infraestrutura Operacional para Telegram](https://ag.tavardt.com/br/super-intelligence/telegram/): Canais seguros de comunicação interna e bots de alerta para incidentes operacionais em tempo real.
-* [Fluxos Conversacionais para Instagram DM](https://ag.tavardt.com/br/super-intelligence/instagram-dm/): Atendimento automatizado de prospects, regras de qualificação técnica e agendamento direto de reuniões executivas.
+* [Fluxos Conversacionais para Instagram DM](https://ag.tavardt.com/br/super-intelligence/instagram-dm/): Atendimento automatizado de prospects, regras de qualificação técnica e atendimento e acolhimento direto.
 
 ---
 
@@ -113,9 +113,9 @@ Todas as soluções de engenharia e implementações gerenciadas dentro do perí
 
 ---
 
-## 5. Contato e Consultas Institucionais
+## 5. Contato e Canais Institucionais
 
 * Portal Corporativo: [https://ag.tavardt.com/br/](https://ag.tavardt.com/br/)
 * Suite de Ferramentas Técnicas: [https://tools.tavardt.com/br/](https://tools.tavardt.com/br/)
 * Correio Eletrônico Institucional: [contact@tavardt.com](mailto:contact@tavardt.com)
-* Canal de Atendimento Direto: [Consulta Técnica Direta com a Sofia (WhatsApp)](https://wa.me/5584987721775?text=Ol%C3%A1%20Sofia,%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20da%20organiza%C3%A7%C3%A3o%20GitHub%20da%20TAVARDT%20Brasil%20para%20uma%20consulta%20t%C3%A9cnica.)
+* Canal de Atendimento Direto: [Atendimento Direto com a Sofia (WhatsApp)](https://wa.me/5584987721775?text=Ol%C3%A1%20Sofia,%20estou%20entrando%20em%20contato%20atrav%C3%A9s%20da%20organiza%C3%A7%C3%A3o%20GitHub%20da%20TAVARDT%20Brasil%20para%20entrar%20em%20contato.)
